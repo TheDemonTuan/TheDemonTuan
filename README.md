@@ -17,11 +17,16 @@
   - Javascript
   - MDB
   - Jquery
+  - Axios
+  - Pug Template
+  - Ejs Template
+  - Hbs Template
   - ....
 - Backend:
   - NodeJS
   - ExpressJS
   - PHP
+  - Redis
   - MySQL
   - MongoDB
   - ....
