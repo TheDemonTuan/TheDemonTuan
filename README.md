@@ -21,6 +21,8 @@
 - Backend:
   - NodeJS
   - ExpressJS
+  - KoaJS
+  - Typescript
   - PHP
   - Redis
   - MySQL
