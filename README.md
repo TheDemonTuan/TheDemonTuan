@@ -19,6 +19,7 @@
   - HTML
   - CSS
   - Jquery
+  - HTMX
   - ReactJS
   - NextJS
   - ....
