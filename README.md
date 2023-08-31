@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm TheDemonTuan</h1>
-<h3 align="center">I'm a backend developer also a minecraft datapack developer from Viet Nam</h3>
+<h3 align="center">I'm a fullstack developer also a minecraft datapack developer from Viet Nam</h3>
 
 ![](https://komarev.com/ghpvc/?username=TheDemonTuan)
 
@@ -10,21 +10,26 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thedemontuan&" alt="thedemontuan" /></p>
 
 ## 🛠 Skills
+- Programming Language:
+  - Javascript
+  - Typescript
 - Frontend: 
   - Boostrap
+  - Tailwind
   - HTML
   - CSS
-  - Javascript
   - Jquery
-  - Pug Template
+  - ReactJS
+  - NextJS
   - ....
 - Backend:
   - NodeJS
   - ExpressJS
   - KoaJS
-  - Typescript
+  - NestJS
   - PHP
   - Redis
   - MySQL
+  - MariaDB
   - MongoDB
   - ....
