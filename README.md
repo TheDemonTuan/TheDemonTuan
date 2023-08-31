@@ -13,6 +13,7 @@
 - Programming Language:
   - Javascript
   - Typescript
+  - PHP
 - Frontend: 
   - Boostrap
   - Tailwind
@@ -28,7 +29,6 @@
   - ExpressJS
   - KoaJS
   - NestJS
-  - PHP
   - Redis
   - MySQL
   - MariaDB
